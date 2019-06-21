@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxCardView – How to export images from a column of the CardViewImageColumn type
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t333472/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to export images displayed in the <a href="https://documentation.devexpress.com/#AspNet/clsDevExpressWebCardViewImageColumntopic">CardViewImageColumn</a>. To do this, handle the <a href="https://documentation.devexpress.com/#AspNet/DevExpressWebASPxCardViewExporter_RenderBricktopic">RenderBrick</a> event and populate its argument <a href="https://documentation.devexpress.com/#AspNet/DevExpressWebASPxCardViewExportRenderingEventArgs_ImageValuetopic">ImageValue</a> property with an image in the binary format.</p>
